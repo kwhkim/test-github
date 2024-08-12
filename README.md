@@ -5,4 +5,3 @@
 * `characters.txt` : 각 캐리터 정보
 * `story.txt` : 스토리
 
-* `locations.txt` : 장소 정보"
