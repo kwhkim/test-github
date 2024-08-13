@@ -1,0 +1,4 @@
+# temp.txt
+Batman 185 72
+Alfredo 180 68
+Penguin-man 177 ??
